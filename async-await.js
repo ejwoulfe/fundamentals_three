@@ -1,5 +1,9 @@
 // Async Await
 
+// Await can only be used inside an async defined function.
+
+// Mostly used in promises, to make sure your code doesn't try to perform tasks before the asynchronous call is returned with the appropriate values.
+
 function resolveAfter2Seconds() {
     return new Promise(resolve => {
         setTimeout(() => {
