@@ -1,4 +1,5 @@
 // Arrow functions. Sugar syntanx for making functions. Better readability to some.
+// Does not bind this.
 
 add = (x, y) => {
     return x + y;
