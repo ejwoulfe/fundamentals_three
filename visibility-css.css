@@ -1,0 +1,8 @@
+#quote {
+    /* visibility: hidden; */
+    display: none;
+}
+
+/*  Both of these styles will keep the html on the DOM. However, the display none will remove the spacing around it. Where the visibility none will 
+ *  keep the spacing and hide it.
+*/
