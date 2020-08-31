@@ -1,0 +1,5 @@
+I personally use sass, which is a scripting language that is compiled into CSS.
+
+These preprocessors are very useful for cleaner code, variables, nesting, and mixins.
+
+Downside of it is can increase your build time, it has to process the scss into css.
