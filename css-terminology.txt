@@ -1,9 +1,12 @@
 Rule:
-Rules are the elements you will be stlying.
+Rules are the sets of properties you are applying to a selector.
 For instance we have a div with the id of "container"
-#container{ <--- Rule
-
+#container{ <--- Selector
+    height: 300px;
+    display: inline-block:
+    width: 400px;
 }
+The height, display, and width are the rules for that selector, or its rule set.
 
 Property and value:
 Properties are the css styles you are applying to the rule.
