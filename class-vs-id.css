@@ -1,0 +1,10 @@
+/* A Class is used to apply the same css to multple elements. */
+.container {
+    width: 50%;
+}
+
+
+/* An ID is used when you only want to apply css to one element only. */
+#quote {
+    font-weight: bold;
+}
