@@ -1,0 +1,13 @@
+Rule:
+Rules are the elements you will be stlying.
+For instance we have a div with the id of "container"
+#container{ <--- Rule
+
+}
+
+Property and value:
+Properties are the css styles you are applying to the rule.
+#container{
+    width: 500px;
+}
+The property in this case is the width and we set it at a value of 500 pixels.
