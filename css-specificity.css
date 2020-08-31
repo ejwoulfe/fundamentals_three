@@ -1,0 +1,15 @@
+div {
+    background-color: aqua !important;
+}
+
+.container {
+    background-color: red;
+}
+
+#first_container {
+    background-color: aquamarine;
+}
+
+/* The next overriding way would be inline css */
+
+/* !important is the most overriding, however it is bad practice. */
