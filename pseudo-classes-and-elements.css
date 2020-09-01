@@ -1,0 +1,7 @@
+a:hover {
+    color: #FF00FF;
+}
+
+div:nth-child(1) {
+    background-color: red;
+}
