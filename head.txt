@@ -1,0 +1,14 @@
+The head tag doesn't render into the DOM, but is a crucial part of any html document.
+
+
+
+The purpose of the head tag is to store external dependancies like stylesheets andscripts.
+ Also, meta information like the title of the page, resposiveness, SEO.
+ 
+<head>
+ <title>Example Title</title>
+ <meta name="author" content="Ed Woulfe">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <link rel="stylesheet" type="text/css" href="creating-circle.css">
+ <script src="/example.js"></script>
+</head>

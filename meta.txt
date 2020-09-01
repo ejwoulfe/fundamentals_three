@@ -1,0 +1,5 @@
+Meta tags can be used for:
+    -an author
+    -chartset
+    -SEO, like keywords and title
+    -responsiveness with viewport
