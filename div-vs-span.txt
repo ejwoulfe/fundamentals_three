@@ -1,0 +1,7 @@
+A div is a block level element, forcing a new line.
+Used in HTML to make divisions of content on the web page.
+
+
+
+A span is an inline element, only taking up as much space as it needs to.
+It used to group elements for styling purposes (by using the class or id attributes).
