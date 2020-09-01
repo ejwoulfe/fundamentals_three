@@ -1,0 +1,5 @@
+New Semantic Tags like header, footer, nav, etc..
+
+Added support for audio and video.
+
+Geolocation.
