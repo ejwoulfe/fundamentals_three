@@ -1,0 +1,15 @@
+html tag or doc type.
+Head tag - meta information, stylesheets, scripts, dependancies, etc..
+body tag - hold the majority of the content for your web page.
+
+
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+
+<body>
+
+
+</body>
+</html>

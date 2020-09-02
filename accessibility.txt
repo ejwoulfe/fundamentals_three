@@ -1,0 +1,7 @@
+Acccessibility - everyone should have access to the internet.
+
+Color Contrasts for color blindness.
+Aria lables to apply a string to a given element for a screen reader on things that may not have text.
+
+Google Chrome has a built in web audit called Lighthouse that can help improve acccessibility.
+
