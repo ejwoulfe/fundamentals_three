@@ -1,0 +1,5 @@
+If the application is running slow, I like to open up the inspector and watch the network retrieve the data.
+
+Usually some kind of fetch is running slow or running into an error, or possibly an image's file size may be too large and we might have to bring it down.
+
+Chrome lighthouse tool can let you know what parts are slow and give you hints are what things could be improved.
