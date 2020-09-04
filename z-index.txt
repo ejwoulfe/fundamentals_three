@@ -1,0 +1,3 @@
+Layers in CSS. Laying things on top of each other with Z-index.
+
+Modals use z-index really well, where the focus will be the modal with a higher z-index value than the background.
