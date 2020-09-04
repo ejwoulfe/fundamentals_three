@@ -1,0 +1,9 @@
+Grid vs Flexbox
+
+Both handle responsive design.
+
+
+Grid is great at handling horizontal and vertical layout, where flexbox is good for horizontal or vertical, one at a time.
+
+Grid is great for maybe a full page layout, where as flexbox is great at single content flow.
+
