@@ -1,0 +1,7 @@
+Singe Page Application
+
+I personally use React.
+
+Advantage is no refreshes, updates only parts of the DOM (routing), faster loading since no new pages.
+
+Components are easy to seperate and easily assigned parts of the webpage. Also reusable!
