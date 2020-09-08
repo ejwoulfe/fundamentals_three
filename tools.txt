@@ -1,0 +1,5 @@
+Chrome Dev Tools
+Chrome React Extension
+JSON Formatter
+Visual Studio Code Packages- linters, formatters.
+Git Bash
